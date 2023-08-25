@@ -31,11 +31,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-<<<<<<< HEAD
-   <h1> Thank you buddy, Happy Learning !!!</h1>
-=======
-   <h1> Thank you, Happy Learning! </h1>
->>>>>>> 4a57a23381a177bff23c2bdb4e4e636ace4249fd
-
+  <h1> Thank you buddy, Happy Learning !!!</h1>
   
 </form>
